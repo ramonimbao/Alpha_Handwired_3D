@@ -1,6 +1,6 @@
 # Alpha 3D Case
 
-A 3D-printable case (https://github.com/PyrooL/Alpha)
+A 3D-printable case designed for the [Alpha keyboard](https://github.com/PyrooL/Alpha)
 
 ## What you need
 
